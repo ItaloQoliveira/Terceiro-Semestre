@@ -4,12 +4,12 @@ class Bobao{
         Scanner inp = new Scanner(System.in);
         System.out.println("Digite um número e os magos dirão se o mesmo é positivo :)");
         int num = inp.nextInt();
-        if (num=0){
+        if (num==0){
           System.out.println("Zero é zero, bobão!");
         } else if(num>0){
-          System.out.println("O numero inserido é positivo:()");
+          System.out.println("O numero inserido é positivo:(");
         }else{
-          System.out.prinln("O numero digitado é negativo :()");
+          System.out.println("O numero digitado é negativo :(");
         }
 
 
