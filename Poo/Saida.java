@@ -17,4 +17,9 @@ public class Saida{
         System.out.println("A soma de (a+b)/c é: "+soma);
 
     }
+    public static void doente(){
+        for(int i=0;i<27;i++){
+        System.out.println("Doente");
+        }
+    }
 }

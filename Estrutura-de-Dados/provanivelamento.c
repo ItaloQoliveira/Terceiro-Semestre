@@ -6,7 +6,7 @@ int menorQueMedia(int nums[], int N);
 void percentualDespesas(float gastos[]);
 void removeVazio(char texto[]);
 void main() {
-    char nota[]="outro teste para garantir e evitar falhas";
+    char nota[]="outro teste  para  garantir  e evitar falhas";
     removeVazio(nota);
     printf("%s",nota);
 }
