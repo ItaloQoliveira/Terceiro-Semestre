@@ -11,9 +11,9 @@ void main(){
             c=array[j];
             array[j]=array[j+1];
             array[j+1]=c;
-            j--; //Tô bem feliz, deu bom! <3 :) 
+            j--; //Tô bem feliz, deu bom! <3 :)
         }
-        
+
     }
     for(i=0;i<7;i++){
         printf("%d",array[i]);

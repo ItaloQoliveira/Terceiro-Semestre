@@ -22,7 +22,7 @@ char notaFinal(float n1, float n2, float n3){
     }else {
         return 'D';
     }
-}   
+}
 int primo(int x){
     int i,contador=0;
     for(i=1;i<x;i++){
@@ -36,8 +36,8 @@ int primo(int x){
         return 0;
     }
 }
-int menorQueMedia(int nums[], int N){  
-    int i,abaixocontador=0;           
+int menorQueMedia(int nums[], int N){
+    int i,abaixocontador=0;
     float media,soma=0;
     for(i=0;i<N;i++){
         soma+=nums[i];
@@ -70,5 +70,4 @@ void removeVazio(char texto[]){
             }
         }
     }
-
 }

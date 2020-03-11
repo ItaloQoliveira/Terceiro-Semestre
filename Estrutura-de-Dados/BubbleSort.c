@@ -1,4 +1,4 @@
-//Esse aqui é bobolha
+//Esse aqui é bobolha, OwO
 #include <stdio.h>
 
 void main(){
