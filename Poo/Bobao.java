@@ -8,7 +8,7 @@ class Bobao{
       if (num==0){
         System.out.println("Zero é zero, bobão!");
       } else if(num>0){
-        System.out.println("O numero inserido é positivo:(");
+        System.out.println("O numero inserido é positivo :(");
       }else{
         System.out.println("O numero digitado é negativo :(");
       }
